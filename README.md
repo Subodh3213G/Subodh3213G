@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Subodh3213G
-- 👀 I’m interested in craziest coding 
+- 👀 I’m interested in Cloud Computing, Augmemnted Reality, Data Science
 - 🌱 I’m currently learning computer Science with specialization in DSA
-- 💞️ I’m looking to collaborate in Hackathons 
-- 📫 How to reach me 24f1001676@ds.study.iitm.ac.in 
+- 💞️ I’m looking to collaborate in Hackathons
+- 📫 How to reach me 24f1001676@ds.study.iitm.ac.in || subodhyadav65197@gmail.com
 - 😄 Pronouns: Subbu
 - ⚡ Fun fact: Nothing😁
 
