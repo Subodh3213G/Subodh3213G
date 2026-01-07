@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9BF5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Subodh+Yadav+👋; Dual+Degree+Scholar+(GTU+%26+IITM); Gen+AI+%26+Data+Science+Developer; Cloud+Certified+(AWS+%7C+OCI+%7C+GCP)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9BF5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Subodh+Yadav+👋;Dual+Degree+Scholar+(GTU+%26+IITM);Gen+AI+%26+Data+Science+Developer;Cloud+Certified+(AWS+%7C+OCI+%7C+GCP)" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -70,8 +70,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subodh3213G&show_icons=true&theme=radical&hide_border=true" height="150" alt="Subodh's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subodh3213G&layout=compact&theme=radical&hide_border=true" height="150" alt="Subodh's Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subodh3213G&show_icons=true&theme=radical&hide_border=true" alt="Subodh's Stats" />
+  &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subodh3213G&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Subodh's Languages" />
 </div>
 
 ---
