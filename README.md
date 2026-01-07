@@ -82,10 +82,10 @@
   <a href="mailto:subodhyadav65197@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/gecdhd-comp-subodh-yadav/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID">
+  <a href="https://leetcode.com/codewithsubodh">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
